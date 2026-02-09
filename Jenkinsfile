@@ -5,7 +5,7 @@ pipeline {
         APP_DIR   = "/home/ubuntu/flask-app"
         VENV_DIR = "venv"
         FLASK_PORT = "5000"
-        FLASK_EC2 = "ubuntu@172.31.2.241"
+        FLASK_EC2 = "ubuntu@13.204.86.38"
         // FLASK_EC2 = "ubuntu@NEW IP"
     }
 
